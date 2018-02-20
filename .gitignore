@@ -1,0 +1,8 @@
+# ignore development binary
+/cmd/tapin-server/tapin-server
+/cmd/tapin/tapin
+/tapin-server
+/tapin
+
+# ignore database files
+*.db
